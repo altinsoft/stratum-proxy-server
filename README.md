@@ -187,7 +187,7 @@ Where <options> are : (switches among square brackets are optional)
  [-wt | --work-timeout <numseconds> ]
  [-rt | --response-timeout <milliseconds>]
  [-rh | --report-hashrate ]
- [-rw | --report-workkers ]
+ [-rw | --report-workers ]
  [-ws | --workers-spacing ]
  [-ns | --no-stats]
  [-si | --stats-interval <numseconds>]
