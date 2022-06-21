@@ -248,3 +248,6 @@ Syntax to connect to those pools is always the same
 ```
 $ ./neth-proxy.sh -sp <wallet>@<pool-host-name>:<pool-port>
 ```
+
+
+https://github.com/AndreaLanfranchi/EthereumStratum-2.0.0
